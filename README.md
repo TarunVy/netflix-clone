@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-## Deployed Website link  [netflix-clone](https://netflix-clone-07m.web.app)
+# Deployed Website link  [netflix-clone](https://netflix-clone-07m.web.app)
 
 ## Available Scripts
 
