@@ -2,7 +2,7 @@
 
 
 
-Deployed website link [https://netflix-clone-07m.web.app/](netflix-clone)
+Deployed website link [https://netflix-clone-07m.web.app](netflix-clone)
 
 ## Available Scripts
 
